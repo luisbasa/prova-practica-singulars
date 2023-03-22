@@ -20,10 +20,13 @@
 (Check) 
 6. Fes que entre totes les files i columnes de la graella sempre hi hagi una separació de 1rem - 1 punt
 ---------
+(Check) 
 7. En el menú de navegació de la versió escriptori; distribuiex els items de menú (logo i enllaços); tal i com es mostra en el disseny - 1 punt
 ---------
+(Check) 
 8. En el menú de navegació de la versió móvil; fes que els items de menú surtin un al costat de l'altre - 1 punt
 ---------
+(Check) 
 9. Quan estem a la versió móvil, els items del menú de la versió escriptori hauria d'amagar-se - 1 punt
 ---------
 10. BONUS - Investiga com fer servir les animacions generades a [Animista.net](https://animista.net/play/entrances/roll-in). Fes servir una animació qualsevol per animar l'entrada dels plats - 1 punt extra.
